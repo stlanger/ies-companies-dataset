@@ -3,7 +3,11 @@
 **Version:** v1.0  
 **Publication date:** 2026-02-10  
 **DOI:** 10.24352/UB.OVGU-2026-022 
-**Creators:** Names, affiliations, ORCIDs  
+**Creators:** 
+- Stefan Langer, Otto-von-Guericke University
+- Marcel Genzmehr, Otto-von-Guericke University
+- Sayantan Polley, Otto-von-Guericke University
+- Andreas Nürnberger, Otto-von-Guericke University
 **Project:** Innovation Ecosystems (IES)
 
 ---
