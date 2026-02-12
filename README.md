@@ -1,8 +1,11 @@
 # IES Multilingual Company Website Dataset (UK & Germany)
 
 **Version:** v1.0  
+
 **Publication date:** 2026-02-10  
+
 **DOI:** 10.24352/UB.OVGU-2026-022 
+
 **Creators:** 
 - Stefan Langer, Otto-von-Guericke University
 - Marcel Genzmehr, Otto-von-Guericke University
