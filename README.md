@@ -8,6 +8,7 @@
 - Marcel Genzmehr, Otto-von-Guericke University
 - Sayantan Polley, Otto-von-Guericke University
 - Andreas Nürnberger, Otto-von-Guericke University
+  
 **Project:** Innovation Ecosystems (IES)
 
 ---
