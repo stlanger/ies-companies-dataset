@@ -7,10 +7,10 @@
 **DOI:** 10.24352/UB.OVGU-2026-022 
 
 **Creators:** 
-- Stefan Langer, Otto-von-Guericke University
-- Marcel Genzmehr, Otto-von-Guericke University
-- Sayantan Polley, Otto-von-Guericke University
-- Andreas Nürnberger, Otto-von-Guericke University
+- Stefan Langer, Otto von Guericke University Magdeburg
+- Marcel Genzmehr, Otto von Guericke University Magdeburg
+- Sayantan Polley, Otto von Guericke University Magdeburg
+- Andreas Nürnberger, Otto von Guericke University Magdeburg
   
 **Project:** Innovation Ecosystems (IES)
 
