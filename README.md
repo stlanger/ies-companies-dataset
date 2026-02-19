@@ -22,7 +22,7 @@ This dataset supports the goals of the Innovation Ecosystems (IES) project by pr
 
 To support the development and evaluation of the IES Platform, we constructed a harmonized corpus of structured and unstructured business information extracted from publicly accessible company websites. The dataset is intended as a reusable research resource for the broader research community.
 
-> This dataset has been assigned the DOI https://doi.org/10.24352/UB.OVGU-2026-022 and will be presumably active at Feb 20, 2026. 
+> This dataset has been assigned the DOI ***10.24352/UB.OVGU-2026-022*** and is published here: [here](https://commons.datacite.org/doi.org/10.24352/ub.ovgu-2026-022). 
 
 > At present, the publicly accessible files contain a representative sample of the complete dataset. The full dataset will be made available once the ongoing migration of the university library’s data infrastructure has been completed.
 > 
